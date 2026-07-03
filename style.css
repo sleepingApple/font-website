@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "Eyephabet";
+    src: url("/fonts/Eyephabet-Regular.ttf") format("truetype");
+}
+
+.my-font{
+    font-family: "Eyephabet", sans-serif;
+}
