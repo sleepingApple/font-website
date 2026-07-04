@@ -1,5 +1,3 @@
-body {
-
     @font-face {
         font-family: "Eyephabet";
         src: url("/fonts/Eyephabet-Regular.ttf") format("truetype");
@@ -8,4 +6,11 @@ body {
     .my-font {
         font-family: "Eyephabet", serif;
     }
-}
+
+    h1 {
+        font-family: "Eyephabet", serif;
+    }
+
+    p {
+        font-family: "Eyephabet", serif;
+    }
